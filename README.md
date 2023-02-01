@@ -1,2 +1,2 @@
-# APCSP
-AP Computer Science Principals 2021-22
+# AP-Computer-Science-Principles
+Code.org Computer Science Labs & Projects from my AP Computer Science Principles course in high school.
